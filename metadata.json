@@ -1,0 +1,8 @@
+{
+  "name": "DobaDoba Desenhos",
+  "description": "App de pintura e arte infantil DobaDoba Desenhos com livro de adesivos, 20 temas pastel, pincel arco-íris, foto com molde oval, galeria e compartilhamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
