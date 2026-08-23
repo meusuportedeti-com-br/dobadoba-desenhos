@@ -1,4 +1,4 @@
-**DOBA DOBA é um aplicativo online com visual infantil. 
+**DOBA DOBA é um aplicativo online de desenho com visual infantil. 
 Como outros do gênero, ele tem uma Galeria de desenhos criados. Diferentes de todos do gênero, ele tem também um Assistente Virtual, um animal virtual que faz companhia enquanto você desenha.**
 
 Acesse agora:
