@@ -8,8 +8,16 @@ Sugestões de uso:
 * No celular do seu filho
 * Em escolas, durante disciplinas de artes
 * Em cursos de informática para crianças
-* Em aulas de informática para idosos, devido à simplicidade 
+* Em aulas de informática para idosos, devido à simplicidade
 
+Me contrate! 
+Trabalho com suporte em informática há mais de 18 anos. Desde a pandemia de Covid, foco no suporte remoto para clientes de todo Brasil e do mundo. 
+* Falo inglês e russo básico
+* Trabalho quase 24hs/dia
+* Suporte para resolução de praticamente qualquer problema no Windows
+* Suporte para resolução de problemas em jogos, útil para streamers 
+* Suporte para softwares em Windows, Linux, Mac, VMs, multiboot.
+  
 ------
 
 Run and deploy your AI Studio app
