@@ -1,4 +1,4 @@
-**Aplicativo online com visual infantil com Galeria de desenhos criados e Assistente Virtual, um animal virtual que faz companhia enquanto você desenha.**
+**DOBA DOBA é um aplicativo online com visual infantil com Galeria de desenhos criados e Assistente Virtual, um animal virtual que faz companhia enquanto você desenha.**
 
 Acesse agora:
 https://dobadoba-desenhos.ai.studio
